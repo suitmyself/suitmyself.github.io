@@ -211,6 +211,16 @@ progress::-moz-progress-value {
 
 }
 
+.container-eng {
+    position: relative;
+    margin: 0 auto;
+
+    width: 1050px;
+    height: 1750px;
+    background-color: white;
+
+}
+
 .side {
     position: absolute;
     width: 360px;
